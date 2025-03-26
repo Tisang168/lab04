@@ -1,0 +1,47 @@
+/*
+filename: [Tisang Lim]
+author: [Tisang Lim]
+created: [26/03/2025]
+last modified: [27/03/2025]
+description: [lab04]
+*/
+h1 {
+    color: purple;
+    font-size: 2em;
+    font-weight: bold; 
+}
+
+* {
+    font-family: Calibri, sans-serif;
+}
+
+* {
+    color:  #2F4F4F;
+}
+
+h2 {
+    color: rgb(0, 128, 128);
+    font-size: 66%;
+    font-weight: bold;
+}
+
+h1, h2, h3 {
+    font-family: arial;
+}
+
+table, th, td, tr {
+    border: 1px solid black;
+}
+
+#images {
+    text-align: center;
+}
+
+#heading3 {
+    color: red;
+}
+
+.special {
+    color: darkorange;
+    font-weight: bold;
+}
